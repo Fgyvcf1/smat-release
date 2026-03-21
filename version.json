@@ -1,7 +1,8 @@
 {
-  "version": "3.0.6",
+  "version": "3.0.8",
   "publishedAt": "2026-03-21",
-  "notes": "优化安装升级流程，修复托盘图标与窗口图标显示。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/tag/v3.0.6",
+  "notes": "新增报表中心字段拼接导出与打印预览，优化机构管理标签文案与顺序，修复图标离线显示并补齐务工字典入包校验。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.0.8/SmartVillageSystem-v3.0.8-Setup.exe",
+  "sha256": "fdab5ae5c9cb90ac0e6d696278cbd4e312b3fb3088cdd46b8642f34ef4c7ea38",
   "mandatory": false
 }
