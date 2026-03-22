@@ -1,8 +1,8 @@
 {
-  "version": "3.0.8",
-  "publishedAt": "2026-03-21",
-  "notes": "新增报表中心字段拼接导出与打印预览，优化机构管理标签文案与顺序，修复图标离线显示并补齐务工字典入包校验。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.0.8/SmartVillageSystem-v3.0.8-Setup.exe",
-  "sha256": "fdab5ae5c9cb90ac0e6d696278cbd4e312b3fb3088cdd46b8642f34ef4c7ea38",
+  "version": "3.0.9",
+  "publishedAt": "2026-03-22",
+  "notes": "切换为 SQLite 发布链路，增强桌面打包稳定性，新增耕地变更台账与性能优化，并清理运行态文件跟踪。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.0.9/SmartVillageSystem-v3.0.9-Setup.exe",
+  "sha256": "b47725c5450438a8ede1a55ad0f0d76e459db51129eefd4c72f68b8b2ae5ba40",
   "mandatory": false
 }
