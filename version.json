@@ -1,8 +1,7 @@
 {
-  "version": "3.0.9",
-  "publishedAt": "2026-03-22",
-  "notes": "切换为 SQLite 发布链路，增强桌面打包稳定性，新增耕地变更台账与性能优化，并清理运行态文件跟踪。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.0.9/SmartVillageSystem-v3.0.9-Setup.exe",
-  "sha256": "b47725c5450438a8ede1a55ad0f0d76e459db51129eefd4c72f68b8b2ae5ba40",
+  "version": "3.1.0",
+  "publishedAt": "2026-03-25",
+  "notes": "统一查询页头部规格与回车查询，修复首页统计图标与系统标题启动加载问题，增强安装包覆盖升级稳定性，修复旧库丢失管理员后重装密码异常，并清理误入安装包的运行时缓存目录。",
+  "downloadUrl": "https://github.com/Fgyvcf1/SmartVillageSystem/releases/download/v3.1.0/SmartVillageSystem-3.1.0-Setup.exe",
   "mandatory": false
 }
