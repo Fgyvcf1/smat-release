@@ -1,7 +1,8 @@
 {
-  "version": "3.1.0",
-  "publishedAt": "2026-03-25",
-  "notes": "统一查询页头部规格与回车查询，修复首页统计图标与系统标题启动加载问题，增强安装包覆盖升级稳定性，修复旧库丢失管理员后重装密码异常，并清理误入安装包的运行时缓存目录。",
-  "downloadUrl": "https://github.com/Fgyvcf1/SmartVillageSystem/releases/download/v3.1.0/SmartVillageSystem-3.1.0-Setup.exe",
+  "version": "3.1.1",
+  "publishedAt": "2026-03-31",
+  "notes": "加固离线授权与机器绑定链路，支持导出模板和报表使用系统保存对话框，优化系统信息中的授权请求与导入体验，并清理过期提醒记录、过滤停用居民生日提醒。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.1.1/SmartVillageSystem-3.1.1-Setup.exe",
+  "sha256": "6f0109cfdd78d0ec89f37c8021d9a3d9811139f56bd02b36df1cdcd8fd600b9b",
   "mandatory": false
 }
