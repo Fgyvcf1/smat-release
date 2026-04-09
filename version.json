@@ -1,8 +1,7 @@
 {
-  "version": "3.1.1",
-  "publishedAt": "2026-03-31",
-  "notes": "加固离线授权与机器绑定链路，支持导出模板和报表使用系统保存对话框，优化系统信息中的授权请求与导入体验，并清理过期提醒记录、过滤停用居民生日提醒。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.1.1/SmartVillageSystem-3.1.1-Setup.exe",
-  "sha256": "6f0109cfdd78d0ec89f37c8021d9a3d9811139f56bd02b36df1cdcd8fd600b9b",
+  "version": "3.1.2",
+  "publishedAt": "2026-04-09",
+  "notes": "修复系统信息版本显示与安装包不一致问题；仪表盘统计改为直接使用 Rust/Tauri 数据源并移除虚拟兜底数据；收口迁移残留并加强迁移完整性门禁。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.1.2/SmartVillageSystem-3.1.2-Setup.exe",
   "mandatory": false
 }
