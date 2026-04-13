@@ -1,0 +1,2 @@
+3cf0bed2c296143f8ae4cf280fbb2264e50011376e3909db37a89d023247415f *SmartVillageSystem_3.1.3_x64-setup.exe
+5a2a59a15005c1b3e3fd74c2526d0500dcb2e8c3a8259b26dd0f65d6d082fdaa *智慧村居办公系统客户端_3.1.3_x64-setup.exe

@@ -1,8 +1,8 @@
 {
-  "version": "3.1.1",
-  "publishedAt": "2026-03-31",
-  "notes": "加固离线授权与机器绑定链路，支持导出模板和报表使用系统保存对话框，优化系统信息中的授权请求与导入体验，并清理过期提醒记录、过滤停用居民生日提醒。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.1.1/SmartVillageSystem-3.1.1-Setup.exe",
-  "sha256": "6f0109cfdd78d0ec89f37c8021d9a3d9811139f56bd02b36df1cdcd8fd600b9b",
+  "version": "3.1.3",
+  "publishedAt": "2026-04-13",
+  "notes": "Tauri/Rust 主程序与客户端安装包同步发布，修复系统信息中局域网授权与运行模式展示不一致的问题，统一“智慧村居办公系统”品牌文案。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.1.3/SmartVillageSystem_3.1.3_x64-setup.exe",
+  "sha256": "3cf0bed2c296143f8ae4cf280fbb2264e50011376e3909db37a89d023247415f",
   "mandatory": false
 }
