@@ -1,8 +1,8 @@
 {
-  "version": "3.2.12",
+  "version": "3.2.13",
   "publishedAt": "2026-04-28",
-  "notes": "新增数据库加密、Recovery Key 页面内展示/打印与备份恢复向导；修复加密数据库重启校验、业务页面反复弹出数据库告警、系统设置数据库安全菜单缺失、居民信息业务关联加载等问题；安装包改为小体积 WebView2 在线安装器并显示安装进度。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.2.12/SmartVillageSystem-3.2.12-Setup.exe",
-  "sha256": "E1A2E284CA09A00F575D66F0A10486BEA6EDB8CD37D54DFB23EB2C3CC9BD102D",
+  "notes": "修复角色权限菜单在主程序中不稳定、普通管理员登录被误拦、超级管理员菜单被数据库菜单裁剪等问题；完善业务菜单权限标记，并增强 Tauri 开发启动健康检查诊断。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.13/SmartVillageSystem-3.2.13-Setup.exe",
+  "sha256": "32262782FD8C3A9ED4230CFE425FDBCB03B7EE31673E41B284F8F0C5684D26A7",
   "mandatory": false
 }
