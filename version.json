@@ -1,8 +1,8 @@
 {
   "version": "3.2.12",
   "publishedAt": "2026-04-28",
-  "notes": "新增数据库加密、Recovery Key 打印与备份恢复向导；修复加密数据库重启校验、业务页面反复弹出数据库告警、系统设置数据库安全菜单缺失、居民信息业务关联加载等问题；务工信息、风险排查、低收入人员、残疾人查询页进入页面不自动展示结果，点击查询后再显示；安装包改为小体积 WebView2 在线安装器并显示安装进度。",
+  "notes": "新增数据库加密、Recovery Key 打印与备份恢复向导；修复加密数据库重启校验、业务页面反复弹出数据库告警、系统设置数据库安全菜单缺失、居民信息业务关联加载等问题；安装包改为小体积 WebView2 在线安装器并显示安装进度。",
   "downloadUrl": "https://github.com/Fgyvcf1/smat-release/releases/download/v3.2.12/SmartVillageSystem-3.2.12-Setup.exe",
-  "sha256": "D79925993EB798986CF498AAE5C12F5A398259A876D47FA1E2F91A901F52CBF3",
+  "sha256": "92ADABDCA52B063158B48DF734B021C1E145100B3C8EB486CE86AAE6652DE8A9",
   "mandatory": false
 }
