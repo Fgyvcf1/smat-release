@@ -1,8 +1,10 @@
 {
-  "version": "3.2.13",
-  "publishedAt": "2026-04-28",
-  "notes": "修复角色权限菜单在主程序中不稳定、普通管理员登录被误拦、超级管理员菜单被数据库菜单裁剪等问题；完善业务菜单权限标记，并增强 Tauri 开发启动健康检查诊断。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.13/SmartVillageSystem-3.2.13-Setup.exe",
-  "sha256": "32262782FD8C3A9ED4230CFE425FDBCB03B7EE31673E41B284F8F0C5684D26A7",
-  "mandatory": false
+  "version": "3.2.13-beta.3",
+  "publishedAt": "2026-04-30",
+  "notes": "修复安装版主窗口偶发停留欢迎页、主页面导航不稳定的问题；增强 Tauri 主程序窗口跳转重试与托盘初始化日志，避免覆盖安装后难以诊断。",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.13-beta.3/SmartVillageSystem-3.2.13-beta.3-Setup.exe",
+  "sha256": "9CAB6E3FAC8684A999A4DAA06DFD727464D2DBAC27B9DB6EF40F4578320021EB",
+  "mandatory": false,
+  "signatureAlgorithm": "ed25519",
+  "signature": "7b+WTks/DZ81M0VZjwCs1MX80yr9JaaP+zBUVMIoUMfQZrS63U5WwxHESY69rt57a+j/fhnxZPYrJ1mDE8k4Cw=="
 }
