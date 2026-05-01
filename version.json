@@ -3,8 +3,8 @@
   "publishedAt": "2026-05-01",
   "notes": "新增实用工具页，内置会议通知、证明模板、会议图片；优化会议通知打印预览、落款排版、印章替换与加盖开关、Word 导出及模板随包安装。若无法从仓库下载，请从夸克网盘获取：https://pan.quark.cn/s/c7d12a848a39",
   "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.14/SmartVillageSystem-3.2.14-Setup.exe",
-  "sha256": "63A701825E2B6A8799C5207B4110A6F3051B7AB07420EBA257C2A3C448782DEF",
+  "sha256": "F796417919B3CA567FED861FCEF5FC0659889A02EF2C2C5701AD1E6794A1BD30",
   "mandatory": false,
   "signatureAlgorithm": "ed25519",
-  "signature": "BrbO0IJLUSou5ts76Fuvldi58ACO6BHHrjHafE9fqYJirN1uG4NMGIAWnWkGtZ+RkDHaoEC2BPpIteev2/15Bg=="
+  "signature": "TmjDwpY9eiZT/KaZGVq1wZzWlDurM7rruZ8y+QCRPUA2KgcWRZ7NCt1kHV7+sCiBRTl4y7ej/EXXjfcScpg7Bg=="
 }
