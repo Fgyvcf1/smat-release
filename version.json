@@ -1,10 +1,10 @@
 {
-  "version": "3.2.13-beta.3",
-  "publishedAt": "2026-04-30",
-  "notes": "修复安装版主窗口偶发停留欢迎页、主页面导航不稳定的问题；增强 Tauri 主程序窗口跳转重试与托盘初始化日志，避免覆盖安装后难以诊断。",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.13-beta.3/SmartVillageSystem-3.2.13-beta.3-Setup.exe",
-  "sha256": "9CAB6E3FAC8684A999A4DAA06DFD727464D2DBAC27B9DB6EF40F4578320021EB",
+  "version": "3.2.14",
+  "publishedAt": "2026-05-01",
+  "notes": "新增实用工具页，内置会议通知、证明模板、会议图片；优化会议通知打印预览、落款排版、印章替换与加盖开关、Word 导出及模板随包安装。若无法从仓库下载，请从夸克网盘获取：https://pan.quark.cn/s/c7d12a848a39",
+  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.14/SmartVillageSystem-3.2.14-Setup.exe",
+  "sha256": "4216B834886AFE9953CF1B900C4524F5098382900B268C1203E133EB86330669",
   "mandatory": false,
   "signatureAlgorithm": "ed25519",
-  "signature": "7b+WTks/DZ81M0VZjwCs1MX80yr9JaaP+zBUVMIoUMfQZrS63U5WwxHESY69rt57a+j/fhnxZPYrJ1mDE8k4Cw=="
+  "signature": "vrW/Vdzj+trWoPnvrFoYgxjgy+wyFrYbEmUF5F174oDbGhIGNz7+mgtaqlRu0/gWpnGJ/IXwLiWpKicQfjB4Cw=="
 }
