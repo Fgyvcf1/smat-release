@@ -1,10 +1,11 @@
 {
-  "version": "3.2.14",
-  "publishedAt": "2026-05-01",
-  "notes": "新增实用工具页，内置会议通知、证明模板、会议图片；优化会议通知打印预览、落款排版、印章替换与加盖开关、Word 导出及模板随包安装。若无法从仓库下载，请从夸克网盘获取：https://pan.quark.cn/s/c7d12a848a39",
-  "downloadUrl": "https://github.com/Fgyvcf1/smat-release/raw/main/packages/v3.2.14/SmartVillageSystem-3.2.14-Setup.exe",
-  "sha256": "F796417919B3CA567FED861FCEF5FC0659889A02EF2C2C5701AD1E6794A1BD30",
+  "version": "3.2.17",
+  "publishedAt": "2026-05-15",
+  "notes": "优化安装器安全说明与后台权限配置体验，减少安装时命令窗口打扰；移除运行期隐藏 PowerShell 探测，降低安全软件误报；保护耕地台账重复导入时已有确权状态不被空值覆盖。请到夸克网盘下载：https://pan.quark.cn/s/66c663a40120",
+  "downloadUrl": "https://pan.quark.cn/s/66c663a40120",
+  "downloadTips": "国内用户请到夸克网盘下载，GitHub 下载链接可能无法访问",
+  "sha256": "2CC05074BF4458606C757854133B07A4283965E448B05BA7AB424565989A418D",
   "mandatory": false,
   "signatureAlgorithm": "ed25519",
-  "signature": "TmjDwpY9eiZT/KaZGVq1wZzWlDurM7rruZ8y+QCRPUA2KgcWRZ7NCt1kHV7+sCiBRTl4y7ej/EXXjfcScpg7Bg=="
+  "signature": "TIdq0byPBPl9VfjgY+QtvWcfkj0sdkY6RcBYqut4Jk/3JLui2hHzMDKXp+TTRp9ig5/2jMyA0/EuOkbGi6rwDQ=="
 }
