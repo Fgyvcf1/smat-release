@@ -1,11 +1,11 @@
 {
   "version": "3.2.17",
   "publishedAt": "2026-05-15",
-  "notes": "从公开版 v3.2.15 升级到 v3.2.17：新增和完善党员管理、党费缴纳/党费查缴、残疾人两项补贴；非本村户籍录入党员可移出；优化安装器安全说明，减少命令窗口打扰；移除运行期隐藏 PowerShell 探测，降低安全软件误报；保护耕地台账重复导入时已有确权状态不被空值覆盖。请到夸克网盘下载：https://pan.quark.cn/s/66c663a40120",
+  "notes": "从公开版 v3.2.15 升级到 v3.2.17：新增和完善党员管理、党费缴纳/党费查缴、残疾人两项补贴；非本村户籍录入党员可移出；修正单人户户主可直接跨户迁移、多人户户主需先转让户主的规则；优化安装器安全说明，减少命令窗口打扰；移除运行期隐藏 PowerShell 探测，降低安全软件误报；保护耕地台账重复导入时已有确权状态不被空值覆盖。请到夸克网盘下载：https://pan.quark.cn/s/66c663a40120",
   "downloadUrl": "https://pan.quark.cn/s/66c663a40120",
   "downloadTips": "国内用户请到夸克网盘下载，GitHub 下载链接可能无法访问",
-  "sha256": "2CC05074BF4458606C757854133B07A4283965E448B05BA7AB424565989A418D",
+  "sha256": "C3BE26D1B132AF7E73326728EC9F5812B94FF3B86E0D90C5C77331A9668E4EF6",
   "mandatory": false,
   "signatureAlgorithm": "ed25519",
-  "signature": "j8jMCh/WpwH1lAGJbdaqAWcIidXEaISgDWB4/APX3XZK47E42BtHDGckmf0EhlszrRs6kGPoz3tP9nV1cDd6Ag=="
+  "signature": "3Acn38Beo5VsJhusLXXTeSvhLjYjY/5lhUSawKEXDLBHjXyQqNKVS1/ZOMmNXQLsfFj7SWEs30owe2MxOce/DQ=="
 }
